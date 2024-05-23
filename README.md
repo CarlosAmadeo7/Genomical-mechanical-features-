@@ -4,7 +4,8 @@ This repository contains the Python code scripts and figures associated with the
 ## Disclaimer
 The materials available in this repository are for demonstration and disclosure reasons, so you can implement them and modify them for your purposes. The code implemented in this project is genome-dependent.
 ## Files guide 
-1. DNA_shape_script :
-2. Differential_dinucleotide_frequency:
-3. Dinucleotide_frequency:
-4. Pairwise_correlation_plots: 
+1. DNA_shape_script: Script to handle DNA structural features of single genomes, such as Propeller twist, Helical Twist, Roll, etc.
+2. Differential_dinucleotide_frequency: Script that finds dinucleotide frequencies in single genomes and plots a difference in their occurrence in a single dimension.
+3. Dinucleotide_frequency: Simple script that finds dinucleotide frequencies.
+4. Pairwise_correlation_plots: Simple Pairwise correlation of DNA shape.
+5. Figures_related_to_code: Code-generated figures depicted in the article.
