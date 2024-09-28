@@ -9,3 +9,4 @@ The materials available in this repository are for demonstration and disclosure 
 3. Dinucleotide_frequency: Simple script that finds dinucleotide frequencies.
 4. Pairwise_correlation_plots: Simple Pairwise correlation of DNA shape.
 5. Figures_related_to_code: Code-generated figures depicted in the article.
+6. The pairwise distribution script as well as the cyclizability script are not available in this repository since the authorship does not belong to me, however, it can be requested via email to me!
