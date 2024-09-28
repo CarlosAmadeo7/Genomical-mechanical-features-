@@ -11,6 +11,6 @@ The materials available in this repository are for demonstration and disclosure 
 5. Figures_related_to_code: Code-generated figures depicted in the article.
 6. The pairwise distribution script as well as the cyclizability script are not available in this repository since the authorship does not belong to me, however, it can be requested via email to me!
 
-
- ![DNA_shape_Helical_Twist](https://github.com/user-attachments/assets/ddaf2753-cf4f-4119-877b-69755d2f20e9)
+![DNA_shape_Helical_Twist](https://github.com/user-attachments/assets/ddaf2753-cf4f-4119-877b-69755d2f20e9)
+![Differential_frequency](https://github.com/user-attachments/assets/92503fc4-1645-44a1-aded-f7156b6a1dfb)
 
