@@ -14,3 +14,5 @@ The materials available in this repository are for demonstration and disclosure 
 ![DNA_shape_Helical_Twist](https://github.com/user-attachments/assets/ddaf2753-cf4f-4119-877b-69755d2f20e9)
 ![Differential_frequency](https://github.com/user-attachments/assets/92503fc4-1645-44a1-aded-f7156b6a1dfb)
 
+## License
+MIT
